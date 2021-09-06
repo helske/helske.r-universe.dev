@@ -1,0 +1,46 @@
+[
+    {
+        "package": "bssm",
+        "url": "https://github.com/helske/bssm"
+    },
+       {
+        "package": "KFAS",
+        "url": "https://github.com/helske/KFAS"
+    },
+    {
+        "package": "seqHMM",
+        "url": "https://github.com/helske/seqHMM"
+    },
+    {
+        "package": "walker",
+        "url": "https://github.com/helske/walker"
+    },
+    {
+        "package": "Rlibeemd",
+        "url": "https://github.com/helske/Rlibeemd"
+    },
+    {
+        "package": "ramcmc",
+        "url": "https://github.com/helske/ramcmc"
+    },
+    {
+        "package": "diagis",
+        "url": "https://github.com/helske/diagis"
+    },
+    {
+        "package": "ggstudent",
+        "url": "https://github.com/helske/gstudent"
+    },
+    {
+        "package": "tsPI",
+        "url": "https://github.com/helske/tsPI"
+    },
+    {
+        "package": "changer",
+        "url": "https://github.com/helske/changer"
+    },
+    {
+        "package": "particlefield",
+        "url": "https://github.com/helske/particlefield"
+    }
+]
